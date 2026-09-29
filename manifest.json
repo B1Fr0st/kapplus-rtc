@@ -1,66 +1,21 @@
 {
   "format": 1,
   "project": "WebRTC Offer Answer Demo",
-  "buildId": "29827bdb3dc9785f",
-  "sourceSha256": "29827bdb3dc9785fa485c469f79187fc1342be562af2b832cd42d6b2d2804548",
-  "sourceBytes": 26005,
-  "bootstrapBytes": 3740,
+  "buildId": "3f82d34d43c86faf",
+  "sourceSha256": "3f82d34d43c86faf1732f7992e1e27f4ed04855b4433ec292bdcd78ede171a87",
+  "sourceBytes": 26152,
+  "bootstrapBytes": 4771,
   "liveBootstrap": {
     "file": "bootstrap.js",
-    "bytes": 6030,
-    "sha256": "8ed9b5e6602be1079f65e5ca0f9715bc346430b068a1f047f35ac376b927649b"
+    "bytes": 5129,
+    "sha256": "98602181b8cd4d3e2f6a7f63c49d527db90e672e8e214284fa9567d027537290"
   },
-  "chunkCount": 10,
+  "chunkCount": 1,
   "chunks": [
     {
-      "file": "chunks/29827bdb3dc9785f/chunk-0.js",
-      "bytes": 2806,
-      "sha256": "d3bdc2fa4592dfbf644464acfd79ed2a032295f508fdbe7457791d23abbb9812"
-    },
-    {
-      "file": "chunks/29827bdb3dc9785f/chunk-1.js",
-      "bytes": 2836,
-      "sha256": "74b42eba1c6498ea1d48f7778bb742064e2c6843bc12aa109b937b85b056c475"
-    },
-    {
-      "file": "chunks/29827bdb3dc9785f/chunk-2.js",
-      "bytes": 2879,
-      "sha256": "be33c8f98cde9ebf44f273d6998e3aec0c24d6a17e440d56a7bfc8132d1a430b"
-    },
-    {
-      "file": "chunks/29827bdb3dc9785f/chunk-3.js",
-      "bytes": 2859,
-      "sha256": "f0acff5750006a9ade67c2c9b8165284b9bfbc39a4fdb369cb4d0b80bedf2023"
-    },
-    {
-      "file": "chunks/29827bdb3dc9785f/chunk-4.js",
-      "bytes": 2811,
-      "sha256": "5a94cf07903c0e1209e2769f851c5d56f4771aa7b62e4352cc7fe90dbdd6f724"
-    },
-    {
-      "file": "chunks/29827bdb3dc9785f/chunk-5.js",
-      "bytes": 2801,
-      "sha256": "687ea0260f7f9db290622483333bfa4e02f01b872b2c957b1faf7bf7728a9368"
-    },
-    {
-      "file": "chunks/29827bdb3dc9785f/chunk-6.js",
-      "bytes": 2883,
-      "sha256": "1e0a64a5675895edf982d42798c3acea9c6d3460c96fb81557358e9ceda2540a"
-    },
-    {
-      "file": "chunks/29827bdb3dc9785f/chunk-7.js",
-      "bytes": 2929,
-      "sha256": "41794871e3c716a76758141d933f2e08827a799600158f9fd76f77484621364d"
-    },
-    {
-      "file": "chunks/29827bdb3dc9785f/chunk-8.js",
-      "bytes": 2892,
-      "sha256": "737a8f69ea6aedcf2d97d9ad7e01cbd6f83a8efa0382d1619d6643377b917567"
-    },
-    {
-      "file": "chunks/29827bdb3dc9785f/chunk-9.js",
-      "bytes": 2884,
-      "sha256": "1aea8ddf544d1886cd5256488583c3bbd8b8963ac60cec2921efd5142f4c802f"
+      "file": "chunks/3f82d34d43c86faf/chunk-0.js",
+      "bytes": 27083,
+      "sha256": "2e472e07da9f97821f7b78ad27cb667af883668420ed8fed02d39789a1e3c649"
     }
   ]
 }
